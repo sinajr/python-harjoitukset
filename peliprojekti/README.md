@@ -1,6 +1,4 @@
 Minipeli
 
-
-
 Sina Jamyari
 
